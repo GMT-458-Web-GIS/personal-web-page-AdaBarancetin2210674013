@@ -1,1 +1,35 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7C3xAGjq)
+# 🌐 Personal Web Page – GMT 458 Web-Based GIS Applications
+
+This project was developed as part of the **GMT 458: Web-Based GIS Applications** course  
+in the **Department of Geomatics Engineering, Hacettepe University**.
+
+The goal is to create a personal **GIS-based website** using modern web technologies.  
+The site is built with **HTML**, **CSS**, and **JavaScript**, and it integrates **OpenLayers** for the map component.
+
+---
+
+## 📄 Project Overview
+The website consists of three main sections:
+- 🏠 **Home Page:** Includes a welcome section and an interactive map.  
+- 👩‍💻 **About:** Contains personal information and the technologies used.  
+- 📊 **Projects:** Showcases three GIS-related example projects.  
+
+---
+
+## 🛠️ Technologies Used
+- HTML  
+- CSS  
+- JavaScript  
+- OpenLayers  
+- GitHub Pages  
+
+---
+
+## 👩‍🎓 Developer
+**Ada Baran Çetin**  
+Department of Geomatics Engineering, Hacettepe University  
+
+---
+
+## 🌍 Live Website
+🔗 [Click here to visit the live site](https://gmt-458-web-gis.github.io/personal-web-page-AdaBarancetin2210674013/)
