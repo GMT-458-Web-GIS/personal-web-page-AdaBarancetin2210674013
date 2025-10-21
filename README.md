@@ -31,5 +31,11 @@ Department of Geomatics Engineering, Hacettepe University
 
 ---
 
+## AI Assistance
+During the project development, I used artificial intelligence (ChatGPT) for approximately **4 hours**.  
+AI assistance was used mainly for **code structure optimization**, **README writing**, and **troubleshooting layout issues**.  
+
+---
+
 ## Live Website
 [Click here to visit the live site](https://gmt-458-web-gis.github.io/personal-web-page-AdaBarancetin2210674013/)
